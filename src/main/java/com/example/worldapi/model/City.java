@@ -3,7 +3,6 @@ package com.example.worldapi.model;
 import jakarta.persistence.*;
 import lombok.Data;
 
-
 @Data
 @Entity
 @Table(name = "city")
